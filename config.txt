@@ -1,6 +1,6 @@
-token=NDk3OTMyNjUzNTg0OTczODM0.DpmXnA.gc3E1_7G2QZNCecdpERBJYctpJs
+token=NDk4NDI5MDIzNjgxMTE4MjA5.DpuztA.nkipFcLHRy0qZLKe31-cV4hVtDw
 owner=469546024839413764
-prefix=3
-game=Type 3play
+prefix=F
+game=Type Fhelp
 stayinchannel=true
 songinstatus=true
